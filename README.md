@@ -14,4 +14,4 @@ VUFORIA
 
 ---
 ## 📱 TRY IT 
-[VIDEO](https://berry-app.netlify.app/user/login](https://youtu.be/5qoek9b1w0U?si=I7x9meCcLDPTzPkq)https://youtu.be/5qoek9b1w0U?si=I7x9meCcLDPTzPkq) 
+[VIDEO](https://youtu.be/5qoek9b1w0U?si=I7x9meCcLDPTzPkq) 
