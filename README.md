@@ -14,5 +14,5 @@ VUFORIA
 
 ---
 ## 📱 TRY IT 
-[VIDEO](https://youtu.be/5qoek9b1w0U?si=I7x9meCcLDPTzPkq) 
-[APK](https://drive.google.com/file/d/1yfXBBNpjUWQYLT79zfSV1688WvnTSgDT/view?usp=sharing)
+[VIDEO](https://youtu.be/5qoek9b1w0U?si=I7x9meCcLDPTzPkq)  
+[CODE & APK](https://drive.google.com/drive/u/0/folders/1XryLk7UhCSynCpeLW9WsIKg-AwsdAzQW)
