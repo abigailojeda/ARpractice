@@ -9,7 +9,7 @@ An AR development practice with Vuforia and Unity.
 ---
 
 ## 🖥️ STACK
-UNITY
+UNITY  
 VUFORIA
 
 ---
